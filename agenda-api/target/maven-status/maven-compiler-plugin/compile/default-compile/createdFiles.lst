@@ -1,0 +1,4 @@
+com\agenda\api\controller\PersonaController.class
+com\agenda\api\model\Persona.class
+com\agenda\api\AgendaApiApplication.class
+com\agenda\api\repository\PersonaRepository.class
